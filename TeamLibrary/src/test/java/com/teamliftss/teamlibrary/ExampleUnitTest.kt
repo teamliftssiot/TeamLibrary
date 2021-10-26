@@ -1,4 +1,4 @@
-package com.teamliftss.toastegg
+package com.teamliftss.teamlibrary
 
 import org.junit.Test
 

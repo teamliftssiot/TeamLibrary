@@ -1,4 +1,4 @@
-package com.teamliftss.toastegg
+package com.teamliftss.teamlibrary
 
 import android.content.Context
 import android.content.Context.LAYOUT_INFLATER_SERVICE

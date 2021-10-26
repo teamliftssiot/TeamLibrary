@@ -2,13 +2,16 @@ package com.teamliftss.app
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.teamliftss.toastegg.toastOrEgg
+import com.teamliftss.teamlibrary.TeamProgressBar
+import com.teamliftss.teamlibrary.toastOrEgg
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+        TeamProgressBar.show(this)
 
         btn_Toast.setOnClickListener {
             toastOrEgg( "Anjayyyyy", 1, R.color.design_default_color_primary_variant)
