@@ -1,4 +1,4 @@
-package com.fullpagedeveloper.toastegg
+package com.teamliftss.app
 
 import org.junit.Test
 

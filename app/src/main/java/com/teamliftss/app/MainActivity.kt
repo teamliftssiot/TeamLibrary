@@ -1,8 +1,8 @@
-package com.fullpagedeveloper.app
+package com.teamliftss.app
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.fullpagedeveloper.toastegg.toastOrEgg
+import com.teamliftss.toastegg.toastOrEgg
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

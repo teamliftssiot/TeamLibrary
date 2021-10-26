@@ -1,4 +1,4 @@
-package com.fullpagedeveloper.toastegg
+package com.teamliftss.toastegg
 
 import android.content.Context
 import android.content.Context.LAYOUT_INFLATER_SERVICE

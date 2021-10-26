@@ -9,7 +9,20 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cd9f1c7-9b20-4a6f-9463-ab5c700705f2" name="Default Changelist" comment="" />
+    <list default="true" id="9cd9f1c7-9b20-4a6f-9463-ab5c700705f2" name="Default Changelist" comment="First Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamLibrary/src/androidTest/java/com/fullpagedeveloper/toastegg/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/TeamLibrary/src/androidTest/java/com/teamliftss/toastegg/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamLibrary/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TeamLibrary/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamLibrary/src/main/java/com/fullpagedeveloper/toastegg/TeamProgressBar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/TeamLibrary/src/main/java/com/teamliftss/toastegg/TeamProgressBar.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamLibrary/src/main/java/com/fullpagedeveloper/toastegg/ToastEgg.kt" beforeDir="false" afterPath="$PROJECT_DIR$/TeamLibrary/src/main/java/com/teamliftss/toastegg/ToastEgg.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamLibrary/src/test/java/com/fullpagedeveloper/toastegg/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/TeamLibrary/src/test/java/com/teamliftss/toastegg/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/fullpagedeveloper/app/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/teamliftss/app/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/fullpagedeveloper/app/BlankFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/teamliftss/app/BlankFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/fullpagedeveloper/app/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/teamliftss/app/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/fullpagedeveloper/app/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/teamliftss/app/ExampleUnitTest.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,6 +127,14 @@
       <option name="presentableId" value="Default" />
       <updated>1635239362324</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1635241804658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635241804658</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,5 +148,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>

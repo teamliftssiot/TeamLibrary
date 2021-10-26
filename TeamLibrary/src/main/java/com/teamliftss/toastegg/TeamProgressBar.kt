@@ -1,4 +1,4 @@
-package com.fullpagedeveloper.toastegg
+package com.teamliftss.toastegg
 
 import android.app.Activity
 import android.app.Dialog
