@@ -1,0 +1,2 @@
+com/teamliftss/app/BuildConfig.java
+ com.teamliftss.app.BuildConfig
