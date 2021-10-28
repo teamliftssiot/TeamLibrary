@@ -45,6 +45,8 @@ class TeamProgressBar {
 
             dialog = CustomDialog(context)
             dialog.setContentView(view)
+            dialog.setCancelable(false)
+            dialog.setCanceledOnTouchOutside(false)
             dialog.show()
             return dialog
         }
@@ -68,4 +70,5 @@ class TeamProgressBar {
             }
         }
     }
+
 }
