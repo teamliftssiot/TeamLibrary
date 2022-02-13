@@ -23,6 +23,12 @@ class TeamProgressBar {
             var msg = context.getString(R.string.default_message)
             return show(context, msg)
         }
+        
+        
+
+        fun dismiss(context: Context) {
+           dialog.dismiss()
+        }
 
         fun show(context: Context, title: CharSequence?): Dialog {
             val inflater = (context as Activity).layoutInflater
